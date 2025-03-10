@@ -1,6 +1,10 @@
 # aphendrix.github.io
 
+Aaron Hendrix - aphendrix@my.waketech.edu.
+=====
+
 **Aaron Hendrix** - aphendrix@my.waketech.edu.
+
 
 This account will be used for school and learning purposes.
 
